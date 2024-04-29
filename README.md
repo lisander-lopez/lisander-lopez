@@ -6,7 +6,7 @@
 5pm-9pm: [3DQuoter](https://3dquoter.com/)
 
 ## Skills 
-These are the, tools I use/skills I posses to solve digital problems. It is well known that Tech is always innovating. This is **NOT** a comprehensive list.
+These are the, tools I use/skills I possess to solve digital problems. It is well known that Tech is always innovating. This is **NOT** a comprehensive list.
 
 ![IBM z/VM](https://img.shields.io/badge/-z%2FVM-blue?style=flat-square&logo=ibm&link=https%3A%2F%2Fwww.ibm.com%2Fproducts%2Fzvm)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
